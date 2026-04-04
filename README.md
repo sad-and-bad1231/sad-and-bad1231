@@ -1,43 +1,49 @@
-# Hi there, I'm Wayne 👋
+# Wayne 👋
 
-## About Me
+<details open>
+<summary><b>English</b></summary>
 
-- 🎓 Undergraduate student at **Sichuan University**, majoring in **Cyberspace Security Engineering**
-- 🔐 Interested in **Cybersecurity**, **LLM**, **AI Agents**
-- 📚 Currently building solid foundations in:
-  - Computer Networks
-  - Operating Systems
-  - Cryptography
-  - Deep Learning
-  - agents
-- 🧠 Exploring research directions in:
-  - LLM Security
-  - Agent eval
-  - Adversarial Defense
+### About Me
+- Undergraduate student at **Sichuan University**
+- Major in **Cyberspace Security**
+- Interested in **Cybersecurity**, **LLM Security**, **AI Agents**, and **Trustworthy AI**
 
----
+### Current Focus
+- Computer Networks
+- Operating Systems
+- Cryptography
+- Deep Learning
+- LLM Security & Agents
 
-## Tech Stack
+### Tech Stack
+- Python / C / C++
+- PyTorch / Linux / Git / Markdown / LaTeX
 
-### Languages
-- Python
-- C
-- C++
-- java
+### Goal
+Grow into a strong researcher and engineer in AI + Security.
 
+</details>
 
-## GitHub Stats
+<details>
+<summary><b>中文</b></summary>
 
-![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=sad-and-bad1231&show_icons=true)
+### 关于我
+- 四川大学本科生
+- 网络空间安全专业
+- 关注 **网络安全 / 大模型安全 / AI Agent / 可信人工智能**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sad-and-bad1231&layout=compact)
+### 当前重点
+- 计算机网络
+- 操作系统
+- 密码学
+- 深度学习
+- 大模型安全与 Agent
 
----
+### 技术栈
+- Python / C / C++
+- PyTorch / Linux / Git / Markdown / LaTeX
 
+### 目标
+成长为 AI + Security 方向扎实的研究者与工程师。
 
-## Contact
-
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- Email: chunsejifenxian@outlook.com
-- zhihu-春色几分闲
-- X(still being blocked...)
+</details>
