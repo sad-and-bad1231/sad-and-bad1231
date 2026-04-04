@@ -8,10 +8,10 @@
 - 🧠 Interested in **Cybersecurity**, **LLM**, **Agents**, and **AGI!**
 
 ### 🌱 Current Focus
-research
+#### research
 - agent eval
 - agent memory mechanism
-engineering
+#### engineering
 - ......
 
 ### 🛠 Tech Stack
@@ -36,11 +36,12 @@ who's the goat: messi
 - 🧠 关注 **网络安全 / 大模型 / Agents / AGI！**
 
 ### 🌱 当前专注于
-科研
+#### 科研
 - 智能体评测
 - 记忆/上下文
-工程
+#### 工程
 - ......
+
 ### 🛠 技术栈
 - Python / C / C++ / java
 
