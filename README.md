@@ -1,57 +1,31 @@
-# Wayne 👋
+<h1 align="center">Hi, I'm MingXuan Kuang 👋</h1>
+<p align="center">
+  Undergraduate at <b>Sichuan University</b> · Cyberspace Security · AI & Security Learner
+</p>
 
-<details open>
-<summary><b>English</b></summary>
+---
 
-### 👨‍💻 About Me
-- 🎓 Undergraduate student at **Sichuan University**, Major in **Cyberspace Security**
-- 🧠 Interested in **Cybersecurity**, **LLM**, **Agents**, and **AGI!**
+## 👨‍💻 About Me
 
-### 🌱 Current Focus
-#### research
-- agent eval
-- agent memory mechanism
-#### engineering
+- 🎓 I'm an undergraduate student majoring in **Cyberspace Security**
+-  四川大学网安大二
+- 🚀 Interested in **Cybersecurity**, **LLM**, **Agents**, and **AGI!**
+- 网络安全、LLM、Agents、AGI
+- 🧠 Research on **agent eval** and **memory mechanism**
+- 研究方向：agent评测、记忆/上下文
+
+---
+
+## 🛠 Tech Stack 技术栈
+
+- Python
+- C
+- C++
+- java
 - ......
 
-### 🛠 Tech Stack
-- Python / C / C++ / java
+## 📫 Contact 
 
-## 📫Contact
-- GitHub: [@sad-and-bad1231](https://github.com/sad-and-bad1231)
+- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
 - Email: chunsejifenxian@outlook.com
-- x(still being blocked)
-
-## else
--favorite sports player: Stephten Curry
--who's the goat: messi
-
-</details>
-
-<details>
-<summary><b>中文</b></summary>
-
-### 👨‍💻 个人信息
-- 🎓 四川大学本科生 网络空间安全专业
-- 🧠 关注 **网络安全 / 大模型 / Agents / AGI！**
-
-### 🌱 当前专注于
-#### 科研
-- 智能体评测
-- 记忆/上下文
-#### 工程
-- ......
-
-### 🛠 技术栈
-- Python / C / C++ / java
-
-## 📫 Contact
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/sad-and-bad1231)
-- 邮箱: chunsejifenxian@outlook.com
-- 知乎：春色几分闲
-
-## 有趣的
-- 最喜欢的运动员：库里
-- 球王：梅西
-
-</details>
+- zhihu: 春色几分闲
