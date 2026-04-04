@@ -28,9 +28,9 @@
 
 ## GitHub Stats
 
-![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=sad-and-bad1231&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sad-and-bad1231&layout=compact)
 
 ---
 
