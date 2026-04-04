@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm MingXuan Kuang 👋</h1>
 <p align="center">
-  Undergraduate at <b>Sichuan University</b> · Cyberspace Security · AI & Security Learner
+  Undergraduate at <b>Sichuan University四川大学</b> · Cyberspace Security · AI & Security Learner
 </p>
 
 ---
