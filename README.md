@@ -23,8 +23,8 @@
 - x(still being blocked)
 
 ## else
-favorite sports player: Stephten Curry
-who's the goat: messi
+-favorite sports player: Stephten Curry
+-who's the goat: messi
 
 </details>
 
@@ -46,10 +46,12 @@ who's the goat: messi
 - Python / C / C++ / java
 
 ## 📫 Contact
-
 - GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/sad-and-bad1231)
 - 邮箱: chunsejifenxian@outlook.com
 - 知乎：春色几分闲
 
+## 有趣的
+- 最喜欢的运动员：库里
+- 球王：梅西
 
 </details>
