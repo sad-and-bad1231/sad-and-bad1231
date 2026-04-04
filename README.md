@@ -31,6 +31,7 @@
 - GitHub: [@sad-and-bad1231](https://github.com/sad-and-bad1231)
 - Email: chunsejifenxian@outlook.com
 - zhihu: 春色几分闲
+- qq: 1648910756
 - X(still being blocked)
 
 ## 🌱 else 有意思的东西
