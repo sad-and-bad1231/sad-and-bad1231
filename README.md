@@ -1,14 +1,15 @@
 <h1 align="center">Hi, I'm MingXuan Kuang 👋</h1>
 <p align="center">
-  Undergraduate at <b>Sichuan University四川大学</b> · Cyberspace Security · AI & Security Learner
+  Undergraduate at <b>Sichuan University</b> Cyberspace Security Engineering
+  就读于 <b>四川大学</b> 网络空间安全学院
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 我的个人信息
 
-- 🎓 I'm an undergraduate student majoring in **Cyberspace Security**
--  四川大学网安大二
+- 🎓 I'm an undergraduate student majoring in **Cyberspace Security Engineering**
+-  四川大学网安本科生
 - 🚀 Interested in **Cybersecurity**, **LLM**, **Agents**, and **AGI!**
 - 网络安全、LLM、Agents、AGI
 - 🧠 Research on **agent eval** and **memory mechanism**
@@ -24,8 +25,14 @@
 - java
 - ......
 
-## 📫 Contact 
+## 📫 Contact 联络方式
 
 - GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
 - Email: chunsejifenxian@outlook.com
 - zhihu: 春色几分闲
+- X(still being blocked)
+
+## 🌱 else 有意思的东西
+
+- favorite sports player: Stephten Curry
+- who's the goat: messi(not LBJ)
