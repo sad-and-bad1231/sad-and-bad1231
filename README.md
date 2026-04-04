@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Wayne 👋
 
-<!--
-**sad-and-bad1231/sad-and-bad1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 Undergraduate student at **Sichuan University**, majoring in **Cyberspace Security Engineering**
+- 🔐 Interested in **Cybersecurity**, **LLM**, **AI Agents**
+- 📚 Currently building solid foundations in:
+  - Computer Networks
+  - Operating Systems
+  - Cryptography
+  - Deep Learning
+  - agents
+- 🧠 Exploring research directions in:
+  - LLM Security
+  - Agent eval
+  - Adversarial Defense
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+### Languages
+- Python
+- C
+- C++
+- java
+
+
+## GitHub Stats
+
+![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+---
+
+
+## Contact
+
+- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- Email: chunsejifenxian@outlook.com
+- zhihu-春色几分闲
+- X(still being blocked...)
