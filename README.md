@@ -11,10 +11,9 @@
 
 - 🎓 I'm an undergraduate student majoring in **Cyberspace Security Engineering** 
 - 四川大学网安本科生 
-- 🚀 Interested in **Cybersecurity**, **LLM**, **Agents**, and **AGI!**
-- 网络安全、LLM、Agents、AGI
-- 🧠 Research on **agent eval** and **memory mechanism**
-- 研究方向：agent评测、记忆/上下文
+- 🚀 Interested in **Cybersecurity**, **LLM inference**, **Agents**
+- 网络安全、LLM inference、Agents
+- 🧠 Research on ?
 
 ---
 
