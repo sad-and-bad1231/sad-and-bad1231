@@ -17,14 +17,6 @@
 
 ---
 
-## 🛠 Tech Stack 技术栈
-
-- Python
-- C
-- C++
-- java
-- ......
-
 ## 📫 Contact 联络方式
 
 - GitHub: [@sad-and-bad1231](https://github.com/sad-and-bad1231)
