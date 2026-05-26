@@ -7,25 +7,25 @@
 </p>
 ---
 
-## 👨‍💻 About Me 我的个人信息
+## 👨‍💻 About Me 
 
 - 🎓 I'm an undergraduate student majoring in **Cyberspace Security Engineering** 
-- 四川大学网安本科生 
-- 🚀 Interested in **Cybersecurity**, **LLM inference**, **Agents**
-- 网络安全、LLM inference、Agents
-- 🧠 Research on ?
+- 🚀 Interested in **LLM inference**, **Cybersecurity**, **Agents**
+- 🧠 Member of [**vLLM-HUST**](https://github.com/vLLM-HUST)
 
 ---
 
-## 📫 Contact 联络方式
+## 📫 Contact 
 
 - GitHub: [@sad-and-bad1231](https://github.com/sad-and-bad1231)
+- Gitcode:[春色几分闲406](https://gitcode.com/2403_88717388)
 - Email: chunsejifenxian@outlook.com
-- zhihu: 春色几分闲
-- qq: 1648910756
+- Zhihu: [春色几分闲](https://www.zhihu.com/people/84-1-70-34)
+- QQ: 1648910756
+- Wechat:Kmx_kMx_kmX
 - X(still being blocked)
 
-## 🌱 else 有意思的东西
+## 🌱 else 
 
-- favorite sports player: Stephten Curry
-- who's the goat: messi(not LBJ)
+- Favorite sports player: Stephten Curry
+- Who's the goat: Messi(not LBJ)
