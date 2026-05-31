@@ -1,9 +1,6 @@
 <h1 align="center"> Hi, I'm MingXuan Kuang👋 </h1>
 <p align="center">
-  Undergraduate at <b>Sichuan University</b> Cyberspace Security Engineering
-</p>
-<p align="center">
-就读于 <b>四川大学</b> 网络空间安全学院
+  Undergraduate at <b>SCU</b> Cyberspace Security Engineering
 </p>
 ---
 
