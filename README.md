@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me 
 
 - 🎓 I'm an undergraduate student majoring in **Cyberspace Security Engineering** 
-- 🚀 Interested in **LLM inference**, **Cybersecurity**, **Agents**
+- 🚀 Interested in **LLM inference**, **Agents**, **RLHF**
 - 🧠 Member of [**vLLM-HUST**](https://github.com/vLLM-HUST)
 
 ---
@@ -15,7 +15,6 @@
 ## 📫 Contact 
 
 - GitHub: [@sad-and-bad1231](https://github.com/sad-and-bad1231)
-- Gitcode:[春色几分闲406](https://gitcode.com/2403_88717388)
 - Email: chunsejifenxian@outlook.com
 - Zhihu: [春色几分闲](https://www.zhihu.com/people/84-1-70-34)
 - QQ: 1648910756
