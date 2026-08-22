@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me 
 
 - 🎓 I'm an undergraduate student majoring in **Cyberspace Security Engineering** 
-- 🚀 Interested in **LLM inference**, **Agents**, **RLHF**
+- 🚀 Interested in **LLM inference**, **AI infra**
 - 🧠 Member of [**vLLM-HUST**](https://github.com/vLLM-HUST)
 
 ---
@@ -19,7 +19,8 @@
 - Zhihu: [春色几分闲](https://www.zhihu.com/people/84-1-70-34)
 - QQ: 1648910756
 - Wechat:Kmx_kMx_kmX
-- X(still being blocked)
+- X：[sadandbaduu](https://x.com/sadandbaduu)
+- Instagram
 
 ## 🌱 else 
 
